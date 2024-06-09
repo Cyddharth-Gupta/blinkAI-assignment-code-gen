@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-anthropic
+langchain_community
+anthropic
+redis
+dotenv
